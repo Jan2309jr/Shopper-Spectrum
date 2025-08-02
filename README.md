@@ -23,7 +23,7 @@ This project leverages transaction data from an online retail business to:
 - Unsupervised Learning – KMeans Clustering for customer segmentation
 - Collaborative Filtering – Item-based recommender system
 
---
+
 ## 🚀 **Live Web App**
 [Click Here](https://shopper-spectrum.streamlit.app/)
 
