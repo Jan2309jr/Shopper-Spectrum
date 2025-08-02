@@ -1,6 +1,5 @@
 # 🛍️ **Shopper Spectrum: Customer Segmentation & Product Recommendations in E-Commerce**
 
---
 
 ##📌 **Problem Statement**
 The global e-commerce industry generates massive volumes of transactional data every day. Proper analysis of this data is key to:
@@ -11,7 +10,7 @@ This project leverages transaction data from an online retail business to:
 - Segment customers using RFM (Recency, Frequency, Monetary) analysis
 - Build a product recommendation system using item-based collaborative filtering
 
---
+
 ## 💼 **Real-Time Business Use Cases**
 - Customer Segmentation for personalized marketing campaigns
 - Product Recommendations based on purchase history
@@ -19,7 +18,7 @@ This project leverages transaction data from an online retail business to:
 - Dynamic Pricing Models tailored to customer behavior
 - Stock Optimization based on demand patterns
 
---
+
 ## 🧠 **Problem Type**
 - Unsupervised Learning – KMeans Clustering for customer segmentation
 - Collaborative Filtering – Item-based recommender system
@@ -28,7 +27,7 @@ This project leverages transaction data from an online retail business to:
 ## 🚀 **Live Web App**
 [Click Here](https://shopper-spectrum.streamlit.app/)
 
---
+
 ## 🧪 **Tech Stack & Tools**
 - Tool	Purpose
 - Pandas, NumPy	- Data preprocessing & manipulation
@@ -38,7 +37,6 @@ This project leverages transaction data from an online retail business to:
 - Joblib - Model serialization
 - Jupyter Notebook	- Experimentation
 
---
 
 ## ⚙️ **Installation & Run Locally**
 ```
@@ -56,4 +54,3 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 ```
---
