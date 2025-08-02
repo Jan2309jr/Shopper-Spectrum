@@ -1,7 +1,7 @@
 # 🛍️ **Shopper Spectrum: Customer Segmentation & Product Recommendations in E-Commerce**
 
 
-##📌 **Problem Statement**
+## 📌 **Problem Statement**
 The global e-commerce industry generates massive volumes of transactional data every day. Proper analysis of this data is key to:
 - Understanding customer purchase behavior
 - Segmenting customers for targeted marketing
