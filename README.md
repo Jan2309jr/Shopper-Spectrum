@@ -25,7 +25,7 @@ This project leverages transaction data from an online retail business to:
 
 
 ## 🚀 **Live Web App**
-[Click Here](https://shopper-spectrum.streamlit.app/)
+[Click Here To Go To the Web App](https://shopper-spectrum.streamlit.app/)
 
 
 ## 🧪 **Tech Stack & Tools**
